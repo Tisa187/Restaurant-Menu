@@ -1,0 +1,52 @@
+h1{
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+    background-color: blue;
+}
+title{
+    font-family: fantasy;
+    font-weight: bold;
+    color: blue;
+}
+img{
+    width: 180px;
+    height: 200px;
+    padding: 10px;
+}
+th{
+    font-size: medium;
+    background-color: chartreuse;
+}
+td{
+    font-size: small;
+    background-color: rgba(20, 220, 37, 0.068);
+}
+#Card{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+h2{
+    font-weight: bold;
+    background-color: aqua;
+    font-family: Arial;
+    padding: 30px;
+    margin-top: 10px;
+}
+h3{
+    font-weight: bold;
+    color: blue;
+}
+.Third-row{
+    background-color: rgb(50, 144, 144);
+}
+body{
+    background-color: aliceblue;
+}
+#Menu {
+    box-sizing: border-box;
+    border-radius: 10px;
+
+}
